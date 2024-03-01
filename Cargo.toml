@@ -1,0 +1,11 @@
+[package]
+name = "aim"
+version = "0.0.1"
+description = "Continuous Test"
+repository = "https://github.com/lamb/aim"
+license = "MIT license"
+authors = ["Lamb <lambgao@me.com>"]
+keywords = ["test", "continuous"]
+edition = "2021"
+
+[dependencies]
